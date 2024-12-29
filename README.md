@@ -30,7 +30,7 @@ This **Userscript** adds Progressive Web App (PWA) features to the **Jut.su** we
      **[Jut.su PWA Feature UserScript](https://raw.githubusercontent.com/emp0ry/Jut.su-PWA-like-app-for-Apple/refs/heads/main/Jut.su_PWA_Feature.user.js)**
    - Click the **Puzzle (Tools)** button on the toolbar, then click on the **UserScripts** extension.
    - After the page loads, you'll see a message like "**UserScript Detected: Tap to install**".
-   - Tap on the **Tap to Install** to install the UserScript.
+   - Tap on the **Tap to Install** then click on to **Install** button to install the UserScript.
    - The script will be installed and activated automatically.
 
 #### 4. **Verify Script Installation:**
