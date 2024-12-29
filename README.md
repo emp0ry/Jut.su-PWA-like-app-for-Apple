@@ -21,7 +21,7 @@ This **Userscript** adds Progressive Web App (PWA) features to the **Jut.su** we
    - Go to the **[UserScripts app on the App Store](https://apps.apple.com/us/app/userscripts/id1463298887)** and install it on your iOS device.
 
 #### 2. **Configure UserScripts Extension in Safari:**
-   - After installation, open **Safari** and go to **Tools** ![](settings.png)
+   - After installation, open **Safari** and go to **Tools** ![](tools.png)
    - Click to **UserScripts** extension. After that a dialog box will appear, click **Always Allow** then **Always Allow on Every Website**.
    - You should now see a puzzle icon in the Safari toolbar when browsing.
 
