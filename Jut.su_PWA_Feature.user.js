@@ -26,12 +26,6 @@
     // Set the home screen name (title of the web app)
     document.title = "Jut.su";  // This is the name that will appear on the home screen
 
-    // Add a splash screen (a background color or image when opening the app)
-    const metaSplash = document.createElement('meta');
-    metaSplash.name = "apple-mobile-web-app-status-bar-style";
-    metaSplash.content = "black-translucent";
-    document.head.appendChild(metaSplash);
-
     // Hide the address bar when the page is loaded
     window.addEventListener('load', function () {
         setTimeout(function () {
